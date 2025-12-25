@@ -4,7 +4,7 @@
 [![Selenium](https://img.shields.io/badge/selenium-4.15.0%2B-green.svg)](https://www.selenium.dev/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-Một công cụ crawl dữ liệu chuyên nghiệp để thu thập bài viết từ ZNews (znews.vn) sử dụng Selenium WebDriver. Dự án được thiết kế với kiến trúc module hóa, dễ bảo trì và mở rộng.
+Một công cụ crawl dữ liệu chuyên nghiệp để thu thập bài viết từ ZNews (znews.vn) hoặc các trang web đọc báo khác, sử dụng Selenium WebDriver. Dự án được thiết kế với kiến trúc module hóa, dễ bảo trì và mở rộng.
 
 ## ✨ Tính năng
 
